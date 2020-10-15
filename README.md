@@ -2,6 +2,8 @@
 <a href=https://www.codewars.com/users/M0rTy_>My</a> current codewars rank:
 <br>
 <img src=https://www.codewars.com/users/M0rTy_/badges/large>
+<br>
+<br>
 Solutions for <a href="http://www.codewars.com">codewars</a> problems.
 <a href="https://github.com/Codewars/codewars.com/wiki/About-Codewars">from</a> Codewars wiki:
 <br>

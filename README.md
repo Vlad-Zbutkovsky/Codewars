@@ -1,6 +1,7 @@
 # Codewars
 <a href=https://www.codewars.com/users/M0rTy_>My</a> current codewars rank:
 <br>
+<img src=https://www.codewars.com/users/M0rTy_/badges/large>
 Solutions for <a href="http://www.codewars.com">codewars</a> problems.
 <a href="https://github.com/Codewars/codewars.com/wiki/About-Codewars">from</a> Codewars wiki:
 <br>
@@ -9,7 +10,6 @@ Solutions for <a href="http://www.codewars.com">codewars</a> problems.
 Programming languages are JavaScript and C++.
 <br>
 <hr>
-<img src=https://www.codewars.com/users/M0rTy_/badges/large>
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 <br>
 <font color=#993399>1kyu,2kyu</font><b> - Proficient</b>

@@ -9,6 +9,7 @@ Programming languages are JavaScript and C++.
 <hr>
 <a href=https://www.codewars.com/users/M0rTy_>My</a> current codewars rank:
 <br>
+<br>
 <img src=https://www.codewars.com/users/M0rTy_/badges/large>
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 <br>

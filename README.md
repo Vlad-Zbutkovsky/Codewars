@@ -13,7 +13,7 @@
 Programming languages are JavaScript and C++.
 <br>
 <hr>
-Kyu digit determines kata's difficulty level as well as user's rank on a website.
+<i>Kyu digit determines kata's difficulty level as well as user's rank on a website:</i>
 <br>
 <font color=#993399>1kyu,2kyu</font><b> - Proficient</b>
 <br>

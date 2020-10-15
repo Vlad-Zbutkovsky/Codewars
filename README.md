@@ -14,8 +14,6 @@ Programming languages are JavaScript and C++.
 <br>
 <br>
 <img src=https://www.codewars.com/users/M0rTy_/badges/large>
-
-<br>
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
 <br>
 <font color=#993399>1kyu,2kyu</font> - Proficient

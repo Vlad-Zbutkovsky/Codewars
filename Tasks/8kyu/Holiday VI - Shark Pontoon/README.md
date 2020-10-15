@@ -1,5 +1,4 @@
-Solution for <a href="http://www.codewars.com">codewars</a> problem.
-<a href=https://www.codewars.com/kata/57e921d8b36340f1fd000059>Kata</a>
+# <a href=https://www.codewars.com/kata/57e921d8b36340f1fd000059>Kata</a>
 <br>
 Your friend invites you out to a cool floating pontoon around 1km off the beach. Among other things, the pontoon has a huge slide that drops you out right into the ocean, a small way from a set of stairs used to climb out.
 
